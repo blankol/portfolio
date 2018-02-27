@@ -30,16 +30,17 @@ a.contact {
 }
 
 .var-highlight {
-	color: grey;
+  color: grey;
+  font-weight: 200;
 }
 .string-highlight {
-	color: pink;
+  color: rgb(250, 148, 165);
+  text-shadow: 1px 2px 2px rgb(77, 77, 77);
 }
 
 .typewriter {
 	font-size: 2em;
   font-family: "Courier New";
-
 }
 .row {
  margin-top: 50px;
