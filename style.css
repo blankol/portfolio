@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono');
+
+body {
+  background-color: white;
+  font-family: "Courier New";
+}
+
+a {
+  color:pink;
+}
+
+a.contact {
+  font-size: 1.9em;
+  font-family: 'Cutive Mono', monospace;
+  text-decoration: none;
+  color: grey;
+}
+
+
+.container {
+  margin-left: 300px;
+  margin-right: 300px;
+  display: inline-block;
+}
+
+
+#click {
+  font-size: 10px;
+}
+
+.var-highlight {
+	color: grey;
+}
+.string-highlight {
+	color: pink;
+}
+
+.typewriter {
+	font-size: 2em;
+  font-family: "Courier New";
+
+}
+.row {
+ margin-top: 50px;
+ text-align: center;
+ font-weight: bold;
+}
+
+img {
+  margin-top: 10px;
+  padding: 5px;
+  height: 50px;
+  width: 55px;
+}
